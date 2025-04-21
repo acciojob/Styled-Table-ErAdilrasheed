@@ -1,1 +1,26 @@
-/* your code */
+.container{
+	width:900px;
+	height:200px;
+	background:ghostwhite;
+	border-radius:10px;
+}
+th{
+	width:90px;
+	background:blueviolet;
+}
+.one{
+	background:white;
+	text-align:center;
+}
+.two{
+	background:gray;
+	text-align:center;
+}
+.third{
+	background:white;
+	text-align:center;
+}
+.four{
+	background:gray;
+	text-align:center;
+}
